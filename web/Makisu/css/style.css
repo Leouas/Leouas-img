@@ -69,16 +69,6 @@ a {
     margin: 0;
 }
 
-.demo:after {
-
-    box-shadow: 0 1px 16px rgba(0,0,0,0.15);
-    background: #1b1b1b;
-    position: absolute;
-    content: '';
-    height: 10px;
-    width: 100%;
-    top: 0;
-}
 
 /* List styles */
 
